@@ -1,0 +1,26 @@
+h1 {
+    color:darkorange
+}
+.all{
+    background-color:dimgray;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.in {
+    background-color:greenyellow;
+    border:solid
+    red
+}
+.menu{
+    margin: 20px;
+}
+.menu a{
+    margin-left: 20px;
+}
+a:link{
+    color:rgb(0, 89, 255);
+}
+a:visited{
+   color:purple;
+}
